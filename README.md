@@ -17,12 +17,25 @@ Our framework is designed to achieve the following:
 ---
 
 ## **Installation**  
-Detailed installation instructions will be available soon.  
+pip install -r requirements.txt 
 
 ---
+## **Results**
+To reproduce the results, follow these steps:
 
-## **Results**  
-Results, including visualizations, tables, and key findings, will be added here. Stay tuned!  
+**Synthetic Datasets**:
+Run PPDA_synthetic_data.ipynb to obtain results for the synthetic datasets:
+
+ER (Erdős–Rényi)
+BA (Barabási–Albert)
+RGG (Random Geometric Graph)
+These results correspond to Table 1, Table 2, and Figures 3 and 4.
+
+**Real Datasets**:
+Run PPDA_real_data.ipynb to generate results for the following real-world datasets:
+
+UCI, PANCAN, HAR (Human Activity Recognition), Animal: These results correspond to Tables 4-12 and Figures 5-8.
+Ensure that the necessary datasets are available and paths are configured correctly before running the notebooks.
 
 ---
 
