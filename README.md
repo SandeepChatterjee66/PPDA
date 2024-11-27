@@ -1,5 +1,5 @@
-# **PPDA: A Privacy-Preserving Framework for Distributed Graph Learning**  
-Welcome to the official repository for our paper *"PPDA: A Privacy-Preserving Framework for Distributed Graph Learning,"* published at **ICONIP 2024**. This repository includes the code and data used in our experiments.  
+# **PPDA**  
+Welcome to the official repository for our paper *"PPDA,"* published at **ICONIP 2024**. This repository includes the code and data used in our experiments.  
 
 ---
 
