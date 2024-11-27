@@ -4,7 +4,7 @@ Welcome to the official repository for our paper *"PPDA: A Privacy-Preserving Fr
 ---
 
 ## **Paper**  
-Thank you for visiting! You can access the preprint of our paper [here](#https://drive.google.com/file/d/1O20RbdPj17C6uOtcnnVUvmHnNXaAUZwc/view?usp=sharing).  
+Thank you for visiting! You can access the preprint of our paper [here](https://drive.google.com/file/d/1O20RbdPj17C6uOtcnnVUvmHnNXaAUZwc/view?usp=sharing).  
 
 ---
 
